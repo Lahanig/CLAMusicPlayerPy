@@ -1,3 +1,5 @@
 test.py
 
-build
+./__pycache__
+./build
+./bin/settings.json
