@@ -1,0 +1,1 @@
+pip install asyncio, aioconsole, keyboard, colorama, pygame, curtsies
